@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Domain/Domain.csproj" Id="126fded0-0f14-42eb-b500-ac97428b7b25" />
+  <Project Path="Infrastructure/Infrastructure.csproj" Id="3629bcca-935e-44f3-90ee-5ba53099eab3" />
+  <Project Path="UrlShortener/UrlShortener.csproj" DisplayName="UrlShortener" />
+</Solution>
+
