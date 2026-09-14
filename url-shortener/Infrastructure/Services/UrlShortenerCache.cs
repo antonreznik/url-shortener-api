@@ -1,7 +1,7 @@
-﻿using Application.Interfaces;
+using Application.Interfaces;
 using Microsoft.Extensions.Caching.Distributed;
 
-namespace Application.Services
+namespace Infrastructure.Services
 {
     public class UrlShortenerCache(IDistributedCache distributedCache) : IUrlShortenerCache
     {
